@@ -4,15 +4,12 @@ const b = () => {
   return (
     <div>b
 
-      a
-      a
-
-      a
-      a
-      a
-      a
+     hi
+      cxh
+      vgsc 
+      vcfv 
       abcda
-      
+
     </div>
   )
 }
